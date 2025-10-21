@@ -1,3 +1,8 @@
 ~ hourse say ~
 
-[main](image/main.png)
+#Đề bài
+![chall](image/chall.png)
+
+
+#Script
+[solve](image/solve.py)
