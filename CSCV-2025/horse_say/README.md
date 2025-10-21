@@ -5,8 +5,8 @@
 
 # Phân tích Challenge
 Dễ thấy challenge bị lỗi format string "printf(s)" ở dòng 26
-![](main.png)
 ![](test.png)
+![](main.png)
 
 Kiểm tra security, ta thấy Partial RELRO 
 ![](checksec.png)
